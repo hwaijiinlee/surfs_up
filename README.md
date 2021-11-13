@@ -3,6 +3,7 @@ The purpose of the analysis is to determine if the weather in Oahu is conducive 
 
 ## Results
 We retrieved the temperatures in Oahu in June and December and obtained summary statistics of those two months below:
+
 ![june image](https://github.com/hwaijiinlee/surfs_up/blob/main/june_temps.png)
 ![december image](https://github.com/hwaijiinlee/surfs_up/blob/main/december_temps.png)
 
