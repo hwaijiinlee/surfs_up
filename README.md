@@ -15,4 +15,4 @@ We retrieved the temperatures in Oahu in June and December and obtained summary 
 The standard deviation of both months' temperatures are rather small, indicating that the temperatures in both months do not vary very much from the mean. This is great news for a surf and ice-cream shop. The temperate weather in Oahu is favorable for sustaining a surf and ice-cream shop year-round.
 However, temperature alone does not give a complete picture of the weather in Oahu. We should also obtain the following additional weather information for a better analysis:
 - precipitation in June and December; and
-- identify the most active weather station closest to the planned surf and ice-cream shop to retrieve the temperatures and precipitation from that weather station instead to get a more accurate idea of the weather close to the location of the planned shop.
+- identify the most active weather station closest to the planned surf and ice-cream shop, retrieve the temperatures and precipitation from that weather station instead to get a more accurate idea of the weather close to the location of the planned shop.
